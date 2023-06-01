@@ -1,0 +1,57 @@
+.home-bg-container {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 1356px;
+  background-color: black;
+}
+.header-container {
+  background-image: url('https://res.cloudinary.com/ruba/image/upload/v1685597688/Image_ke3yha.svg');
+  height: 605px;
+  width: 1440px;
+}
+.home-description-container {
+  margin-top: 123px;
+  margin-left: 164px;
+  width: 443px;
+}
+.home-title {
+  color: #ffffff;
+  font-family: 'HK Grotesk';
+  font-size: 64px;
+  font-weight: 700px;
+}
+.home-page-description {
+  color: #ffffff;
+  font-family: 'HK Grotesk';
+  font-size: 18px;
+  font-weight: 400px;
+}
+.play-btn {
+  background-color: #ffffff;
+  color: #171f46;
+  border-radius: 4px;
+  border-width: 0px;
+  font-family: 'HK Grotesk';
+  font-size: 14px;
+  width: 74px;
+  height: 40px;
+  font-weight: 600;
+}
+.home-footer-container {
+  padding-top: 80px;
+  padding-left: 165px;
+}
+.home-sub-heading {
+  color: #ffffff;
+  font-family: 'HK Grotesk';
+  font-size: 24px;
+  font-weight: 600px;
+}
+
+.in-progress-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+}
